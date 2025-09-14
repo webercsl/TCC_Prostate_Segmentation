@@ -120,14 +120,12 @@ prostate-segmentation/
 │       ├── paciente_002/
 │       └── ...
 ├── models/
-├── configs/
-│   ├── anatomy_tcc1.yaml
-│   └── anatomy_kfold.yaml
-└── scripts/
-    ├── train.py
-    ├── train_kfold.py
-    ├── predict_test.py
-    └── predict_train.py
+├── train.py
+├── train_kfold.py
+├── predict_test.py
+├── predict_train.py
+├── anatomy_tcc1.yaml
+└── anatomy_kfold.yaml
 ```
 
 ---
